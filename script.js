@@ -272,7 +272,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     telegramChannelBtn.addEventListener('click', () => {
-        window.location.href = 'https://t.me/+vE9SdmQoUVlhOGY1'; 
+        window.location.href = 'https://t.me/jasperazerbaijan'; 
     });
 
     // Show previous keys when the user changes the game or the page loads
